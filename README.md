@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **16** | 0 | 16 | 0 | `2026-10-04` |
+| **17** | 0 | 17 | 0 | `2026-10-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (16)
+### DSA (17)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -25,13 +25,14 @@
 | 0007 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0008 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0009 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-10-03` |
-| 0010 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0011 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0012 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-01` |
-| 0013 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
-| 0014 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-01` |
-| 0015 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0016 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-03` |
+| 0010 | [83. Majority Element-I](./DSA/General/majority-element-i) | [CPP](./DSA/General/majority-element-i/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0011 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0012 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0013 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-01` |
+| 0014 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0015 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-01` |
+| 0016 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0017 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-03` |
 
 ---
 
