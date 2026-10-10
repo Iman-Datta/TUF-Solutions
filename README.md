@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 0 | 23 | 0 | `2026-10-10` |
+| **24** | 0 | 24 | 0 | `2026-10-10` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (23)
+### DSA (24)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -36,9 +36,10 @@
 | 0018 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [CPP](./DSA/Arrays/rearrange-array-elements-by-sign/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
 | 0019 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0020 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-01` |
-| 0021 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
-| 0022 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-03` |
-| 0023 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
+| 0021 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-10` |
+| 0022 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
+| 0023 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-03` |
+| 0024 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-07` |
 
 ---
 
